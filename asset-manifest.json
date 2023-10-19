@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e43be0c.css",
-    "main.js": "/static/js/main.29f6d7a5.js",
+    "main.js": "/static/js/main.ebcaa46a.js",
     "static/js/498.ee5d530f.chunk.js": "/static/js/498.ee5d530f.chunk.js",
     "static/js/703.f3a594cb.chunk.js": "/static/js/703.f3a594cb.chunk.js",
     "static/js/513.6c18cb16.chunk.js": "/static/js/513.6c18cb16.chunk.js",
@@ -10,8 +10,10 @@
     "static/media/Daily Shopping Sales Point BG.mp4": "/static/media/Daily Shopping Sales Point BG.83d84796330ecaca6fe4.mp4",
     "static/media/Coffee Shop BG.mp4": "/static/media/Coffee Shop BG.c856db6ac47b03ff9c60.mp4",
     "static/media/Coin De Luxe Sales Point BG.mp4": "/static/media/Coin De Luxe Sales Point BG.03d30531590963c4b072.mp4",
+    "static/media/Cosmetics Background V1.mp4": "/static/media/Cosmetics Background V1.736121f3f585484f372c.mp4",
     "static/media/Laptop Shop BG.mp4": "/static/media/Laptop Shop BG.0f5731275b2e7ef5f2a7.mp4",
     "static/media/Curvy Colorful Background.mp4": "/static/media/Curvy Colorful Background.b40a6ad08ad0c96c6d6f.mp4",
+    "static/media/Desert Background.mp4": "/static/media/Desert Background.fc6ce54e54d642bc0169.mp4",
     "static/media/One Piece Wallpaper.mp4": "/static/media/One Piece Wallpaper.bd4851b6b3bb95c1afd7.mp4",
     "static/media/Cyber Tech Background.mp4": "/static/media/Cyber Tech Background.0aef50b46b891039be42.mp4",
     "static/media/Floating Plexus Background.mp4": "/static/media/Floating Plexus Background.936e25e2e43e3b171c5e.mp4",
@@ -33,7 +35,7 @@
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.4e43be0c.css.map": "/static/css/main.4e43be0c.css.map",
-    "main.29f6d7a5.js.map": "/static/js/main.29f6d7a5.js.map",
+    "main.ebcaa46a.js.map": "/static/js/main.ebcaa46a.js.map",
     "498.ee5d530f.chunk.js.map": "/static/js/498.ee5d530f.chunk.js.map",
     "703.f3a594cb.chunk.js.map": "/static/js/703.f3a594cb.chunk.js.map",
     "513.6c18cb16.chunk.js.map": "/static/js/513.6c18cb16.chunk.js.map",
@@ -41,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.4e43be0c.css",
-    "static/js/main.29f6d7a5.js"
+    "static/js/main.ebcaa46a.js"
   ]
 }
